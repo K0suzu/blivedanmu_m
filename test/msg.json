@@ -1,0 +1,72 @@
+{
+    "rid": 3834767,
+    "payload": {
+        "cmd": "DANMU_MSG",
+        "info": [
+            [
+                0,
+                1,
+                25,
+                16777215,
+                1680789068359,
+                1680786701,
+                0,
+                "db7ac61e",
+                0,
+                0,
+                0,
+                "",
+                0,
+                "{}",
+                "{}",
+                {
+                    "mode": 0,
+                    "show_player_type": 0,
+                    "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"111\",\"user_hash\":\"3682256414\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":9,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"39da6cf5773ded05e0dae44b613008099\"}"
+                },
+                {
+                    "activity_identity": "",
+                    "activity_source": 0,
+                    "not_show": 0
+                }
+            ],
+            "111",
+            [
+                2121347,
+                "hibikiiiiii",
+                0,
+                0,
+                0,
+                10000,
+                1,
+                ""
+            ],
+            [],
+            [
+                20,
+                0,
+                6406234,
+                ">50000",
+                2
+            ],
+            [
+                "",
+                ""
+            ],
+            0,
+            0,
+            null,
+            {
+                "ts": 1680789068,
+                "ct": "2185F4F2"
+            },
+            0,
+            0,
+            null,
+            null,
+            0,
+            210
+        ],
+        "dm_v2": "CiEzOWRhNmNmNTc3M2RlZDA1ZTBkYWU0NGI2MTMwMDgwOTkQARgZIP///wcqCGRiN2FjNjFlMgMxMTE4x7TXtvUwSI2Ku6EGYgCKAQCaARAKCDIxODVGNEYyEMycu6EGogF+CIO9gQESC2hpYmlraWlpaWlpIkpodHRwczovL2kyLmhkc2xiLmNvbS9iZnMvZmFjZS85ZDU4NGMwOTgwYjYxODcyYTFiYjRhNDJiOGFkMTllZGUyNWNjZjMxLmpwZziQTkABWgIIAWIRCBQQ2oCHAxoGPjUwMDAwIAJqAHIAqgEFGI+H6gE="
+    }
+}

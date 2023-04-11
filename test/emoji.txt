@@ -1,0 +1,20 @@
+{
+    "rid":25622556,
+    "payload":{
+        "cmd":"DANMU_MSG",
+        "info":[
+            [0,1,25,16777215,1681140521264,1681138215,0,"a1e739c5",0,0,0,"",1,
+            {
+                "bulge_display":1,
+                "emoticon_unique":"room_25622556_14913",
+                "height":162,
+                "in_player_area":1,
+                "is_dynamic":0,
+                "url":"http://i0.hdslb.com/bfs/live/26167c23cf5bc1b4e1aac3fbc48c8e76478b8e09.png",
+                "width":162
+                },
+                "{}",
+                {
+                    "mode":0,
+                    "show_player_type":0,
+                    "extra":"{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":1,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"哼\",\"user_hash\":\"2716285381\",\"emoticon_unique\":\"room_25622556_14913\",\"bulge_display\":1,\"recommend_score\":4,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"f2390d007624f061e68cb496947ff9335\"}"},{"activity_identity":"","activity_sou
