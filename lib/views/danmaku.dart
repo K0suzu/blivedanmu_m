@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:blivedanmu_m/types/gift.dart';
 import 'package:date_format/date_format.dart';
 import 'package:flutter/material.dart';
+import 'package:wakelock/wakelock.dart';
 
 import '../components/list_text.dart';
 import '../types/comment.dart';
@@ -77,6 +78,7 @@ class _DanmakuContentState extends State<DanmakuContent> {
 
   @override
   void dispose() {
+    Wakelock.disable();
     bliveWebScoket.disconnect();
     super.dispose();
   }
@@ -84,6 +86,7 @@ class _DanmakuContentState extends State<DanmakuContent> {
   @override
   void initState() {
     bliveWebScoket.connect();
+    Wakelock.enable();
     super.initState();
   }
 
